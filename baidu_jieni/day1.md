@@ -8,5 +8,3 @@
 
 ![](https://raw.githubusercontent.com/qingshui3000/pic_bed/master/notes/20200622095617.png)
 
-### 5.21
-
