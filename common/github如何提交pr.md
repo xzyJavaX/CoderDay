@@ -38,7 +38,7 @@ upstream	https://github.com/xzyJavaX/CoderDay.git (push)
 
 本篇文章不涉及到提交到新建分支，直接将更新提交到自己仓库的master分支再发起pr。
 
-文章建议markdown格式(这个应该不用说了)，推荐typora，图片建议使用在线图床，本仓库暂时没有存放图片的打算，更多建议细则请查阅根规范和准则文档。
+文章建议markdown格式(这个应该不用说了)，推荐typora，图片建议使用在线图床，本仓库暂时没有存放图片的打算，更多建议细则请查阅根目录的README.MD。
 
 ### 5.发起pr
 
@@ -46,13 +46,21 @@ upstream	https://github.com/xzyJavaX/CoderDay.git (push)
 
 ![](https://raw.githubusercontent.com/qingshui3000/pic_bed/master/notes/20200622140850.png)
 
-然后
+然后在这个界面
+
+![](https://raw.githubusercontent.com/qingshui3000/pic_bed/master/notes/20200622142525.png)
+
+红框分别是源repo和你的repo的分支，以及是否有冲突，(有冲突百度如何解决冲突，我不会😅)，无冲突的话点击绿色按钮创建pull request，为了管路员能清晰的知道你本次提交的大致内容，title和message请填写清楚，界面如下：
+
+![](https://raw.githubusercontent.com/qingshui3000/pic_bed/master/notes/20200622142942.png)
 
 ### 6.开源项目管理者审核通过pr
 
+由管理员(狗群主本人)审核pr后通过，你的提交就到了源repo中啦。
+
 ### 7.如何解决冲突
 
-todo。。。
+todo。。。。
 
 
 
