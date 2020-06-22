@@ -46,7 +46,7 @@ upstream	https://github.com/xzyJavaX/CoderDay.git (push)
 
 ![](https://raw.githubusercontent.com/qingshui3000/pic_bed/master/notes/20200622140850.png)
 
-然后
+然后在这个界面
 
 ### 6.开源项目管理者审核通过pr
 
