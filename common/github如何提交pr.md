@@ -38,7 +38,7 @@ upstream	https://github.com/xzyJavaX/CoderDay.git (push)
 
 本篇文章不涉及到提交到新建分支，直接将更新提交到自己仓库的master分支再发起pr。
 
-文章建议markdown格式(这个应该不用说了)，推荐typora，图片建议使用在线图床，本仓库暂时没有存放图片的打算，更多建议细则请查阅根规范和准则文档。
+文章建议markdown格式(这个应该不用说了)，推荐typora，图片建议使用在线图床，本仓库暂时没有存放图片的打算，更多建议细则请查阅根目录的README.MD。
 
 ### 5.发起pr
 
