@@ -24,3 +24,6 @@
 
 ![](https://raw.githubusercontent.com/qingshui3000/pic_bed/master/notes/20200623095119.png)
 
+### 4.本地仓库更新
+
+同步后别忘了在本地`git pull`一下，否则后面提交会冲突的。
