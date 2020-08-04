@@ -64,3 +64,12 @@ todo。。。。
 
 
 
+### Other
+
+```shell
+# 复用commit、修改提交描述信息
+git commit --amend
+# 按需修改log或:wq退出
+git push xxx
+```
+
