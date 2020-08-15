@@ -80,4 +80,7 @@
 # 第十周(2020.8.10 - 2020.8.15)  
 ## 😊2020.8.12😊：  
 中小主播挖掘活动上线  
+ <img src="http://116.62.79.166:8080/img/lizhi/1.jpg" width="300px"/>
  <img src="http://116.62.79.166:8080/img/lizhi/2.jpg" width="300px"/>
+ <img src="http://116.62.79.166:8080/img/lizhi/3.jpg" width="300px"/>
+ <img src="http://116.62.79.166:8080/img/lizhi/4.jpg" width="300px"/>
